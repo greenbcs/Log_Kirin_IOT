@@ -1,2 +1,2 @@
 # Log_Kirin_IOT
-Log cloud system for Kirin IOT device
+Log cloud system for FreeRTOS IOT device
